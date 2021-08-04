@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TealcOneill, You can call me Tealc or Ben whichever.
+- 👀 I’m interested in learning about game developement and programming in-general
+- 🌱 I’m currently learning JSON and C#
+- 💞️ I’m looking to collaborate on Cataclysm Dark Days Ahead and in the future possibly my own games
+- 📫 13benjaminjackson@gmail or Tealc#6853 on Discord.
